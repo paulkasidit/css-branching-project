@@ -1,0 +1,9 @@
+h1 { 
+  font-style: italic;
+  text-decoration: dashed;
+}
+
+p { 
+  font-style: normal;
+  color: brown;
+}
